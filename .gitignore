@@ -32,3 +32,5 @@
 *.app
 .verification-evidence/
 __pycache__/
+.ccls-cache/
+.breakpoints
